@@ -1,0 +1,4 @@
+# echo "*.log" >> .gitignore  # Ignorar todos los archivos .log
+# echo "secreto_*.txt" >> .gitignore  # Ignorar cualquier archivo que empiece con "secreto_"
+# echo "credenciales/" >> .gitignore  # Ignorar toda una carpeta llamada "credenciales"
+
