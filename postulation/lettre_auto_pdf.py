@@ -71,6 +71,7 @@ puesto_completo = puesto_info.split('\n')[0]
 
 # Prompt personalizado (modifícalo aquí para ajustes de estilo)
 prompt = f"""
+La lettre doit être impérativement rédigée en français uniquement.
 Tu es Ray Leonardo VERA, diplômé en Data Science, profil analyste avec 2 ans d'expérience. 
 
 CV:
