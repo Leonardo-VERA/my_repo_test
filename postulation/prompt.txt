@@ -1,0 +1,63 @@
+Language: FRENCH
+Company: PMU
+Address: 10 Rue du Ciel, 75000 Paris
+Job Title: Data Analyst chez PMU
+
+Voici la description du poste:
+Le PMU est une tech company spécialisée en betting & gaming (hippique, sport, poker, NFT) qui rassemble plus de 1 100 talents (dont 320 en région) passionnés, au sein d'un univers captivant, aux forts enjeux & challenges notamment technologiques.
+
+Nos Chiffres Clés
+
+ 1er opérateur de paris hippiques en Europe et 3ème acteur mondial
+ 10 milliards d'enjeux dont 9,3 MdsEUR d'enjeux hippiques en 2023
+ 835 millions de contribution à la filière hippique
+ Plus de 3,2 millions de clients (en ligne et points de vente)
+ 14000 points de vente en France
+ Plus de 110 partenaires dans plus de 50 pays à l'international
+ 1,1 milliard de transactions par an, gérées par notre SI coeur de métier
+
+Au PMU, nous partageons des valeurs fortes et sommes engagés dans une stratégie RSE qui s'appuie sur plusieurs piliers, dont une politique de jeu responsable. Nous avons à coeur de favoriser l'égalité des chances, l'accueil de personnes en situation de Handicap, la diversité et la parité.
+
+(Pour en savoir plus, retrouvez-nous sur Welcome to the jungle et la chaine Equidia sur Youtube : https://www.youtube.com/watch?v=zJcsXVuvSHo)
+
+Dans le cadre de son activité, le PMU recherche un(e) Data Analyst qui sera amené(e) à réaliser des études sur notre base de clients (profils, analyse comportementale, performance des offres, optimisation des campagnes, suivi réglementaire,...) et apporter des préconisations business aux interlocuteurs métiers.
+
+Votre Terrain De Jeu
+
+ Recueillir les besoins métiers et formaliser les briefs dans le backlog
+ Collaborer étroitement avec les autres data analysts afin d'adopter la démarche la plus efficace pour répondre aux demandes d'études
+ Collaborer étroitement avec les développeurs BI afin d'identifier les éléments et dashboards qui pourraient servir pour éclairer ou enrichir les analyses
+ Assurer le traitement des sujets dans le respect des priorités et échéances
+ Restituer vos conclusions de la manière la plus adaptée aux interlocuteurs métiers
+ Documenter les travaux et leur avancement (code, résultats, documents de présentation...)
+
+Le monde du gaming et du betting vous anime ? Et si c'était vous, notre candidat idéal??
+
+Ce poste nécessite des compétences en data analyse avec des expériences significatives dans un contexte de grande volumétrie de données, idéalement dans les secteur retail / e-commerce ou fintech, et la capacité à collaborer avec de nombreux interlocuteurs simultanément.
+
+Les Principales Compétences Requises Sont Les Suivantes
+
+ Excellente connaissance des techniques d'analyse de données
+ Expérience avancée avec l'outil Dataiku et la programmation SQL
+ Excellent esprit d'équipe
+ Approche pragmatique et orienté résultats
+ Forte rigueur dans la démarche au quotidien (documentation, traçabilité)
+ Forte sensibilité aux objectifs business et opérationnels
+ Aisance à vulgariser votre travail à vos différents interlocuteurs
+
+Ce que nous offrons?:
+
+ Télétravail autorisé (2 jours/semaine)
+ Ticket Restaurant : 10,30euros dont 6,18euros pris en charge
+ Prise en charge à hauteur de 65% de l'abonnement de transports (Véhicule de fonction non concerné)
+ Epargne salariale : Intéressement, PEE, PERCOL, CET
+ Nombre de RTT attractif (en fonction du statut et du poste)
+ Mutuelle : gratuité pour l'adhérent
+ Avantages CSE (multiples subventions)
+ Bien-être au travail : Moka care (sessions de coaching, programmes self-care : articles, audio et vidéo)
+ Participation financière à des abonnements sur l'application Gymlib
+ Accompagnement à la parentalité avec l'application May Santé
+ Prime de Cooptation
+ Possibilité d'accéder au dispositif "?vis ma vie?"
+ Dispositif " Action Logement "
+
