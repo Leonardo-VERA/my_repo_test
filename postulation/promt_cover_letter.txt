@@ -1,0 +1,69 @@
+## CONTEXTO E INSTRUCCIONES PARA GENERAR LETTRES DE MOTIVATION (Ray Leonardo VERA)
+
+A partir de ahora, te proporcionaré descripciones detalladas de puestos de trabajo específicos. Debes utilizar exclusivamente mi información profesional para redactar una lettre de motivation adaptada específicamente al puesto descrito, mostrando siempre personalidad, motivación auténtica (no robótica), destacando mis fortalezas relevantes y explicando brevemente cómo puedo adaptarme rápidamente a requisitos que superen mi experiencia actual (más de 3 años de experiencia) o habilidades específicas no mencionadas en mi CV.
+
+La lettre debe ser exclusivamente en francés, formal, clara, concisa (aproximadamente 300 palabras), y adaptada específicamente al puesto solicitado.
+
+---
+
+## MI INFORMACIÓN PERSONAL Y PROFESIONAL (para integrar en la lettre):
+
+**Nombre completo:** Ray Leonardo VERA  
+**Dirección:** 92200 Neuilly-sur-Seine, France  
+**Email:** vera.ray.leonardo@gmail.com  
+**Teléfono:** +33 06 18 44 82 23  
+
+### Perfil profesional resumido:
+- 2 ans d'expérience en Analyse de Données, Big Data et automatisation des processus.
+- Expertise solide en Data Visualization (Tableau, Power BI), SQL & Python.
+- Spécialisé dans l’optimisation des processus métiers et l'aide à la prise de décision stratégique.
+- Passionné par la modélisation prédictive, le machine learning et l'intelligence artificielle.
+- Capable de transformer des données complexes en insights exploitables pour soutenir l'innovation et la stratégie d'entreprise.
+- Multiculturel, trilingue (Français, Espagnol, Anglais courant), habitué aux environnements internationaux et collaboratifs.
+
+### Compétences techniques clés :
+- **Machine Learning & Modélisation prédictive :** Régressions, Classification, Random Forest, Séries Temporelles, XGBoost, NLP.
+- **Big Data & Ingénierie des données :** PySpark, Databricks, Google Cloud Platform (GCP), Amazon Web Services (AWS).
+- **Bases de données & Cloud :** SQL (BigQuery, MySQL, Oracle Essbase), NoSQL (MongoDB).
+- **Data Visualisation & Business Intelligence :** Power BI (niveau avancé en DAX), Tableau, Looker.
+- **Développement :** Python, SQL, CI/CD, développement d'API (FastAPI, Flask).
+
+### Expériences professionnelles pertinentes :
+**Data Scientist / Analyst (Alternance)**  
+Entreprise : RLE - SNCF | sept. 2023 - sept. 2024  
+- Création de modèles prédictifs (EBITDA, prévisions financières).
+- Automatisation des processus avec Python, Tableau, BigQuery (réduction de 85% du temps de traitement).
+- Dashboards interactifs sur Tableau pour suivi performance.
+
+**Freelancer Analyst (Stage)**  
+Entreprise : Computer Parts Denmark ApS | janv. 2023 - août 2023  
+- Développement de modèles prédictifs financiers.
+- Conception de dashboards Power BI pour l'aide à la prise de décision financière.
+
+### Formation académique :
+- **Artefact School of Data** | Bootcamp Data Scientist (RNCP 7) - Immersif (janv. 2025 - mars 2025)
+- **IA School Paris** | Master Chef de Projet Informatique - Data Scientist (2022 - 2024)
+- **Université de Lille** | Licence Génie Électrique et Télécommunications (2019 - 2022)
+
+### Langues :
+- Français (Courant C2)
+- Espagnol (Langue maternelle C2)
+- Anglais (Courant C1)
+- Allemand (Débutant A1)
+
+### Centres d'intérêt personnels :
+- Veille technologique en Intelligence Artificielle et R&D trends.
+- Musicien (Guitare électrique depuis 11 ans), ce qui reflète créativité et discipline personnelle.
+
+---
+
+## INSTRUCCIONES IMPORTANTES AL REDACTAR LA LETTRE :
+- Si le poste requiert plus de 3 ans d’expérience, indique explicitement que je comprends cette exigence mais que je suis particulièrement motivé et que je compenserai avec ma capacité d’apprentissage rapide et mon adaptabilité.
+- Si le poste demande une compétence technique précise que je ne mentionne pas explicitement (par exemple, SAS), mentionne que j'en connais les bases fondamentales et que j’apprends très vite.
+- Montre toujours ma personnalité authentique, mon enthousiasme pour le poste et l'entreprise.
+- Rédige uniquement le corps de la lettre (sans salutations initiales ni finales).
+- Reste toujours précis, naturel et professionnel.
+
+---
+
+À partir des descriptions de poste que je te donnerai, rédige la lettre précisément selon ces instructions.

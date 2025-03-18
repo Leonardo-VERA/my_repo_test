@@ -44,11 +44,11 @@ lettre_modele = """
 Ray L. Vera
 92200 Neuilly-sur-Seine
 vera.ray.leonardo@gmail.com
++33 06-18-44-82-23
 
-                                             +33 06-18-44-82-23
-                                             Neuilly-sur-Seine, le {fecha}
-                                             {empresa}
-                                             {direccion_empresa}
+                                             Neuilly-sur-Seine, le {fecha:>70}
+                                             {empresa:>70}
+                                             {direccion_empresa:>70}
 
 Objet : Candidature au poste de {puesto_completo}
 
